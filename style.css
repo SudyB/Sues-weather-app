@@ -1,0 +1,84 @@
+body {
+  padding: 50px 0;
+  width: 100%;
+  border-style: none;
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  color: #5c6163;
+  text-align: center;
+  top: 30px;
+}
+
+h2 i {
+  font-size: 100px;
+  color: white;
+  font-weight: bolder;
+  text-align: left;
+  top: 0px;
+}
+h3 {
+  font-size: 15px;
+  text-align: center;
+}
+h4 {
+  text-align: right;
+  color: #828a8d;
+  font-size: 30px;
+}
+h5 {
+  font-size: 15px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  color: #3a8df4;
+}
+
+i {
+  font-size: 45px;
+  color: white;
+  font-weight: bolder;
+}
+strong {
+  font-size: 20px;
+  color: violet;
+}
+
+.container {
+  border: 40px;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+.card {
+  height: 695px;
+  width: 420px;
+  background: linear-gradient(
+    108.1deg,
+    rgb(167, 220, 225) 11.2%,
+    rgb(217, 239, 242) 88.9%
+  );
+}
+
+.firstIcon {
+  font-size: 10px;
+  text-align: right;
+  top: 0px;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+}
+
+.searchButton {
+  width: 100px;
+  margin: 0px;
+  display: block;
+}
